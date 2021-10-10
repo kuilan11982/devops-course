@@ -1,1 +1,2 @@
-hello from klan for 2.txt 
+hello from klan for 2.tx
+thest testt 
